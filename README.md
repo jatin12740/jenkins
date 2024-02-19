@@ -1,5 +1,5 @@
-#Installation
-Update Package List:
+# Installation
+##Update Package List:
 sudo apt-get update
 
 Install Java:
