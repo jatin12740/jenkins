@@ -1,8 +1,8 @@
 # Installation
-##Update Package List:
+## Update Package List:
 sudo apt-get update
 
-Install Java:
+## Install Java:
 Jenkins requires Java to run. You can install OpenJDK with the following command:
 sudo apt-get install openjdk-11-jdk
 
@@ -15,7 +15,7 @@ echo "deb [signed-by=/usr/share/keyrings/jenkins-keyring.gpg] https://pkg.jenkin
 Update Package List Again:
 sudo apt-get update
 
-Install Jenkins:
+## Install Jenkins:
 sudo apt-get install jenkins
 
 Start Jenkins Service:
